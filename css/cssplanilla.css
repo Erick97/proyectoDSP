@@ -1,0 +1,48 @@
+﻿body {
+     box-sizing: border-box;
+    background-color:#5F9EA0;
+   font-family: 'Lato', sans-serif;
+}
+#form1{
+   position:relative;
+   height:814px;
+    background-color: #D3D3D3; 
+    width: 90%;
+    max-width:900px;
+    border-radius: 7px;
+    margin-top:40px;
+    box-shadow: 5px 1px 50px #999;
+    top: 0px;
+    left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.header{
+    position:relative;
+   text-align:center;
+    display:block;
+    font-size:100%;
+      background-color: #778899;
+}
+#container{
+     margin:5% 2% 5% 5%;
+    height: 669px;
+   
+}
+#btnIngresar{
+     position:relative;
+    border-radius:5px;
+    margin-left:65px;
+    top: -10px;
+    left: 200px;
+    height:7%;
+}
+#btnRegresar{
+        position:relative;
+    border-radius:5px;
+    margin-left:65px;
+ top: -10px;
+    left: 200px;
+     height:7%;
+}

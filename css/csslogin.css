@@ -1,0 +1,48 @@
+﻿
+
+body {
+    
+    box-sizing: border-box;
+    background-color:#5F9EA0;
+   font-family: 'Lato', sans-serif;
+}
+.header{
+    position:relative;
+   text-align:center;
+    display:block;
+    font-size:100%;
+}
+#login1{
+      background-color: #778899;
+      margin:auto;
+}
+#form1{
+   position:relative;
+   height:300px;
+    background-color: #D3D3D3; 
+    width: 100%;
+    max-width:500px;
+    margin:auto;
+    border-radius: 7px;
+    margin-top:40px;
+    box-shadow: 5px 1px 50px #999;
+}
+.h1login{
+    margin-top:-3%;
+    margin-left:40%;
+    font-size:35px;
+   
+}
+#container{
+    margin-left:23%;
+    
+}
+#btnIngresar{
+    position:relative;
+    border-radius:8px;
+    margin-left:65px;
+    top: 0px;
+    left: 0px;
+}
+
+

@@ -1,0 +1,99 @@
+﻿body {
+        box-sizing: border-box;
+    background-color:#5F9EA0;
+   font-family: 'Lato', sans-serif;
+}
+
+#erick{
+    width:30%;
+    margin-left:2%;
+    margin-top:7%;
+}
+#marlon{
+    width:30%;
+    margin-left:2%;
+    margin-top:7%;
+}
+#lorena{
+     width:30%;
+    margin-left:2%;
+    margin-top:7%;
+}
+#jonathan{
+    width:30%;
+    margin-left:2%;
+    margin-top:7%;
+}
+#diego{
+      width:30%;
+    margin-left:2%;
+    margin-top:7%;
+    height:150px;
+}
+
+#form1{
+   position:relative;
+   height:1200px;
+    background-color: #D3D3D3; 
+    width: 100%;
+    max-width:500px;
+    border-radius: 7px;
+    margin-top:40px;
+    box-shadow: 5px 1px 50px #999;
+    top: 0px;
+    left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+#h1inte{
+       position:relative;
+   text-align:center;
+    font-size:40px;
+}
+#section1{
+    position:absolute;
+    display:block;
+    margin-left:38%;
+    margin-top:-35%;
+}
+#section2{
+    position:absolute;
+    display:block;
+     margin-left:38%;
+    margin-top:-35%;
+}
+#section3{
+      position:absolute;
+    display:block;
+     margin-left:38%;
+    margin-top:-35%;
+}
+#section4{
+       position:absolute;
+    display:block;
+     margin-left:38%;
+    margin-top:-35%;
+}
+#section5{
+ position:absolute;
+    display:block;
+     margin-left:38%;
+    margin-top:-35%;
+}
+.fa-user-circle-o{
+   position:relative;
+   right:22px;
+   top:35px;
+   
+}
+.fa-address-card-o{
+  position:relative;
+   right:43px;
+   top:70px;
+}
+.fa-laptop{
+     position:relative;
+   right:63px;
+   top:105px;
+}
